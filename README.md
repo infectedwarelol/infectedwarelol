@@ -8,8 +8,6 @@ I also go by **infectedware**. I'm 16, i'm originally from France and i've been 
 - 💬 You can message me on Discord: `infectedware`
 - 📫 Or email me at developingjules@gmail.com
 
----
-
 ## Tech Stack
 
 <p align="center">
