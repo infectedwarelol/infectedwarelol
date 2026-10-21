@@ -9,8 +9,6 @@ I also go by **infectedware**. I'm 16, i'm originally from France and i've been 
 - 📫 Or email me at developingjules@gmail.com
 - 🟢 I'm currently open for work
 
----
-
 ## Tech Stack
 
 <p align="center">
