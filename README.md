@@ -31,8 +31,6 @@ I also go by **infectedware**. I'm 16, i'm originally from France and i've been 
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=archlinux&logoColor=white" />
 </p>
 
----
-
 ## GitHub Stats
 
 <p align="center">
