@@ -7,6 +7,9 @@ I also go by **infectedware**. I'm 16, i'm originally from France and i've been 
 - 🌐 You can find my full [CV / Portfolio](https://infectedware.dev) here
 - 💬 You can message me on Discord: `infectedware`
 - 📫 Or email me at developingjules@gmail.com
+- 🟢 I'm currently open for work
+
+---
 
 ## Tech Stack
 
@@ -14,7 +17,6 @@ I also go by **infectedware**. I'm 16, i'm originally from France and i've been 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white" />
   <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
   <br/>
@@ -23,7 +25,7 @@ I also go by **infectedware**. I'm 16, i'm originally from France and i've been 
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white" />
   <br/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" />
