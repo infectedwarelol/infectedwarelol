@@ -9,14 +9,6 @@ I also go by **infectedware**. I'm 16, i'm originally from France and i've been 
 
 ---
 
-## What i'm working on
-
-- **CloneDupe.net**: this one's mine. I own it, i develop it full time and i run the machines, so pretty much everything goes through me.
-- **PigFFA**: i'm one of the server developers. I built the whole server from scratch. It peaked at 338 players online.
-- **WISP SMP**: i'm one of the server developers.
-
----
-
 ## Tech Stack
 
 <p align="center">
