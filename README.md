@@ -17,15 +17,6 @@ I've been making Minecraft stuff since i was 11 and i still enjoy it just as muc
 - **PigFFA**: i'm one of the server developers. I built the whole server from scratch. It peaked at 338 players online.
 - **WISP SMP**: i'm one of the server developers.
 
-## Projects
-
-- [KewlRice](https://github.com/infectedwarelol/KewlRice): my own Arch Linux rice on Hyprland. I made 13 themes you can cycle with Super+Tab, blur everywhere, sounds for almost everything, and an Alt+Tab that puts my apps on a spinning Earth that follows the real time of day. You can install it with one command.
-- [SpinningArchLogo](https://github.com/infectedwarelol/SpinningArchLogo): a spinning Arch logo for fastfetch. It greets me every time i open a terminal.
-- [DiamondSMP](https://github.com/infectedwarelol/DiamondSMP): a plugin i made for the DiamondSMP FFAs.
-- [BetterPlayerKits2](https://github.com/infectedwarelol/BetterPlayerKits2): my fork of PlayerKits2, i added Folia support and a `/kit layout` command.
-- [FoliaSellGUI](https://github.com/infectedwarelol/FoliaSellGUI): my fork with Folia support and sellable shulker boxes.
-- [pwgen](https://github.com/infectedwarelol/pwgen): a little password generator i wrote in C++ because i was bored.
-
 ---
 
 ## Tech Stack
