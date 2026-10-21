@@ -17,9 +17,6 @@ I also go by **infectedware**. I'm 16, i'm originally from France and i've been 
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=infectedwarelol&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infectedwarelol&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://streak-stats.demolab.com?user=infectedwarelol&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infectedwarelol&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
