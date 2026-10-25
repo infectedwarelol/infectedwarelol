@@ -6,7 +6,7 @@ I also go by **infectedware**. I'm originally from France and i've been living i
 
 - 🌐 You can find my full [CV / Portfolio](https://infectedware.dev) here
 - 💬 You can message me on Discord: `infectedware`
-- 📫 Or email me at developingjules@gmail.com
+- 📫 Or email me at workinfectedware@gmail.com
 
 ## Tech Stack
 
