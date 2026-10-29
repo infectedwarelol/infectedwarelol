@@ -11,7 +11,7 @@ I also go by **infectedware**. I'm originally from France and i've been living i
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,gradle,maven,python,cpp,js,ts,nodejs,lua,php,html,css,mysql,docker,cloudflare,git,rust,github,arch,pterodactyl&perline=9" />
+  <img src="https://skillicons.dev/icons?i=java,gradle,maven,python,cpp,js,ts,nodejs,lua,php,html,css,mysql,docker,cloudflare,git,rust,github,arch&perline=9" />
 </p>
 
 ## 
