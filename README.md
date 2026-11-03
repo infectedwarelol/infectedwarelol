@@ -15,7 +15,7 @@ I also go by **infectedware**. I'm originally from France and i've been living i
   <br>
   <img src="https://skillicons.dev/icons?i=html,css,mysql,docker,cloudflare,git,rust,github,arch&theme=dark" height="48" />
   <br>
-  <img src="assets/paper.png" height="48" title="Paper" />&nbsp;&nbsp;<img src="assets/folia.png" height="48" title="Folia" />&nbsp;&nbsp;<img src="assets/purpur.png" height="48" title="Purpur" />&nbsp;&nbsp;<img src="assets/leaf.png" height="48" title="Leaf" />&nbsp;&nbsp;<img src="assets/velocity.png" height="48" title="Velocity" />&nbsp;&nbsp;<img src="assets/pterodactyl.png" height="48" title="Pterodactyl" />&nbsp;&nbsp;<img src="assets/ssh.png" height="48" title="SSH" />
+  <img src="assets/paper.png" height="48" title="Paper" />&nbsp;&nbsp;<img src="assets/folia-leaf.png" height="48" title="Folia" />&nbsp;&nbsp;<img src="assets/purpur.png" height="48" title="Purpur" />&nbsp;&nbsp;<img src="assets/leaf.png" height="48" title="Leaf" />&nbsp;&nbsp;<img src="assets/velocity.png" height="48" title="Velocity" />&nbsp;&nbsp;<img src="assets/pterodactyl.png" height="48" title="Pterodactyl" />&nbsp;&nbsp;<img src="assets/ssh.png" height="48" title="SSH" />
 </p>
 
 ## 
